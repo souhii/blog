@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-08-27',
 
   devtools: { enabled: true },
-  modules: ['@nuxt/content'],
+  modules: ['@nuxt/content', '@nuxt/icon'],
 
   routeRules: {
     '/': { prerender: true },
