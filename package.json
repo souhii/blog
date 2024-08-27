@@ -1,4 +1,7 @@
 {
+  "name": "blog",
+  "version": "0.1.0",
+  "description": "",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,5 +13,21 @@
   "dependencies": {
     "@nuxt/content": "^2.13.2",
     "nuxt": "^3.13.0"
-  }
+  },
+  "keywords": [
+    "nuxt",
+    "typescript",
+    "tailwindcss"
+  ],
+  "homepage": "https://github.com/souhii/blog#readme",
+  "bugs": {
+    "url": "https://github.com/souhii/blog/issues",
+    "email": "4739837@gmail.com"
+  },
+  "author": "Ping Song <4739837@gmail.com>",
+  "packageManager": "pnpm@9.9.0",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "LGPL-3.0-or-later"
 }
